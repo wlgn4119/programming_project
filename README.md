@@ -100,35 +100,7 @@ C언어로 구현한 콘솔 기반 숫자 야구 게임입니다.
 
 ---
 
-# 6. Project Structure (프로젝트 구조)
-
-```plaintext
-programming_project/
-│
-├── main.c
-├── README.md
-```
-
----
-
-# 7. How to Run (실행 방법)
-
-### GCC
-
-```bash
-gcc main.c -o baseball
-./baseball
-```
-
-### Visual Studio
-
-1. 프로젝트 생성
-2. main.c 추가
-3. 실행 (Ctrl + F5)
-
----
-
-# 8. Test Cases (테스트)
+# 6. Test Cases (테스트)
 
 ### 문자 입력 예외 처리
 
@@ -171,18 +143,6 @@ a
 ```text
 잘못된 입력입니다. 다시 입력하세요.
 ```
-
----
-
-# 9. What We Learned (프로젝트를 통해 배운 점)
-
-* 함수 분할 설계의 중요성
-* 배열을 활용한 데이터 관리
-* 랜덤 숫자 생성 방법
-* 입력 예외 처리 방법
-* 팀 프로젝트 협업 과정
-* GitHub를 활용한 코드 관리
-* 테스트를 통한 버그 수정 과정
 
 ---
 
